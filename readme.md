@@ -10,9 +10,10 @@ This workshop will introduce you to the basic concepts you need to understand an
 
 ### Prerequisites:
 
-(a) HTML & CSS: You must have taken our Intro to HTML and CSS class or have equivalent knowledge of HTML and CSS. [Review class materials](https://www.girldevelopit.com/materials/html-intro).
+(a) *HTML & CSS:* You must have taken our Intro to HTML and CSS class or have equivalent knowledge of HTML and CSS. [Review class materials](https://www.girldevelopit.com/materials/html-intro).
 
-(b) JavaScript: You must have taken our Intro to JavaScript class or have equivalent knowledge of JavaScript. [Review class materials](https://www.girldevelopit.com/materials/intro-js).
+(b) *JavaScript:* You must have taken our Intro to JavaScript class or have equivalent knowledge of JavaScript. [Review class materials](https://www.girldevelopit.com/materials/intro-js). If you've taken our Intermediate JavaScript class or have more advanced JavaScript knowledge, even better, but it's not stricly required.
+
 
 ### Tech requirements:
 
